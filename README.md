@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Jitendra
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4488F7&vCenter=true&width=435&lines=AI+Engineer;Working+With+LLMs;Building+RAG+and+Agentic+RAG+Systems;Neural+Networks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4488F7&center=true&vCenter=true&width=435&lines=AI+Engineer;Working+With+LLMs;Building+RAG+and+Agentic+RAG+Systems;Neural+Networks)](https://git.io/typing-svg)
 
 </div>
 
