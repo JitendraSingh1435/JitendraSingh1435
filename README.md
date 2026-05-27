@@ -13,7 +13,7 @@
 An AI enthusiast focused on Machine Learning, Deep Learning, Large Language Models, Agentic AI, Generative AI, and Retrieval-Augmented Generation (RAG) systems.
 I’m passionate about designing intelligent, scalable AI solutions that bridge research and real-world applications.
 
-<table>
+<table align="center">
   <tr>
     <td colspan="2" align="center">
       <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" width="100%">
