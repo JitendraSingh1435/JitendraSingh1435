@@ -4,14 +4,11 @@
 
 # Hi 👋, I'm Jitendra
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4488F7&center=true&vCenter=true&width=435&lines=AI+Engineer;Working+With+LLMs;Building+RAG+and+Agentic+RAG+Systems;Neural+Networks)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4488F7&center=true&vCenter=true&width=435&lines=AI+Engineer;Working+With+LLMs;Building+RAG+and+Agentic+RAG+Systems;Understand+Neural+Networks)](https://git.io/typing-svg)
 </div>
 
-## About Me
+<img src="https://mega.nz/file/DWRyAD5R#ZYdGnQG8pP-O1SropOY-T61racHMZJsm9iTwrY2OViY" alt="Banner Image" width="100%">
 
-An AI enthusiast focused on Machine Learning, Deep Learning, Large Language Models, Agentic AI, Generative AI, and Retrieval-Augmented Generation (RAG) systems.
-I’m passionate about designing intelligent, scalable AI solutions that bridge research and real-world applications.
 
 <table align="center">
   <tr>
@@ -28,6 +25,11 @@ I’m passionate about designing intelligent, scalable AI solutions that bridge 
     </td>
   </tr>
 </table>
+
+## About Me
+
+An AI enthusiast focused on Machine Learning, Deep Learning, Large Language Models, Agentic AI, Generative AI, and Retrieval-Augmented Generation (RAG) systems.
+I’m passionate about designing intelligent, scalable AI solutions that bridge research and real-world applications.
 
 
 ## 🛠️ The Tech Vault
