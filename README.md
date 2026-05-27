@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4488F7&center=true&vCenter=true&width=435&lines=AI+Engineer;Working+With+LLMs;Building+RAG+and+Agentic+RAG+Systems;Understand+Neural+Networks)](https://git.io/typing-svg)
 </div>
 
-<img src="https://mega.nz/file/DWRyAD5R#ZYdGnQG8pP-O1SropOY-T61racHMZJsm9iTwrY2OViY" alt="Banner Image" width="100%">
+<img src="https://i.postimg.cc/J075fk07/image-5fc9bd51.png" alt="Banner Image" width="100%">
 
 
 <table align="center">
