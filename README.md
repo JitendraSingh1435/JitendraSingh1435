@@ -12,15 +12,15 @@
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <img src="./profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Profile Details" width="100%">
+      <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" width="100%">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./profile-summary-card-output/solarized_dark/1-repos-per-language.svg" alt="Repos Per Language" width="100%">
+      <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos Per Language" width="100%">
     </td>
     <td>
-      <img src="./profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Most Commit Language" width="100%">
+      <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" width="100%">
     </td>
   </tr>
 </table>
