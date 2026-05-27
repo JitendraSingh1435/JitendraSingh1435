@@ -1,5 +1,18 @@
 ### 📊 My GitHub Profile Summary
 
+<div align="center">
+
+# Hi 👋, I'm Jitendra
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4488F7&width=435&lines=AI+Engineer;Working+With+LLMs;Building+RAG+and+Agentic+RAG+Systems;Understanding+Neural+Networks)](https://git.io/typing-svg)
+
+</div>
+
+## About Me
+
+An AI enthusiast focused on Machine Learning, Deep Learning, Large Language Models, Agentic AI, Generative AI, and Retrieval-Augmented Generation (RAG) systems.
+I’m passionate about designing intelligent, scalable AI solutions that bridge research and real-world applications.
+
 <table>
   <tr>
     <td colspan="2" align="center">
@@ -15,3 +28,21 @@
     </td>
   </tr>
 </table>
+
+
+## 🛠️ The Tech Vault
+
+* 💻 I code in Python, Java, and JavaScript
+* 🧠 Deeply into Machine Learning, Deep Learning, and Natural Language Processing (NLP)
+* 🤖 Architecting Agentic AI, GenAI, and Large Language Models (LLMs)
+* ⚙️ Building with CrewAI, AGNO, Langgraph, Langchain, and MCP servers
+* 🔬 Researching Agentic Long Form Context RAG systems and LLM Quantizations & pruning methods
+* 🚀 Passionate about designing intelligent, scalable AI solutions that bridge research and real-world applications
+
+
+---
+
+## 📫 Let's Connect
+
+* 📧 **[jitendrasingh14355@gmail.com](mailto:jitendrasingh14355@gmail.com)**
+* 🌐 Always up for impactful projects and collaborations
