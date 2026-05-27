@@ -3,13 +3,14 @@
 
 # Hi 👋, I'm Jitendra
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4488F7&center=true&vCenter=true&width=435&lines=AI+Engineer;Working+With+LLMs;Building+RAG+and+Agentic+RAG+Systems;Understand+Neural+Networks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4488F7&center=true&vCenter=true&width=435&lines=AI+Engineer;Working+With+LLMs;Building+RAG+and+Agentic+RAG+Systems;Understand+Neural+Networks)](https://git.io/typing-svg)
+
 </div>
 
 <img src="https://i.postimg.cc/J075fk07/image-5fc9bd51.png" alt="Banner Image" width="100%" >
 
-
-<table align="justify">
+<!--
+<table align="center">
   <tr>
     <td colspan="2" align="center">
       <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" width="100%">
@@ -24,6 +25,8 @@
     </td>
   </tr>
 </table>
+
+-->
 
 ## About Me
 
