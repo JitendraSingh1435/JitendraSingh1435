@@ -9,7 +9,7 @@
 
 <img src="https://i.postimg.cc/J075fk07/image-5fc9bd51.png" alt="Banner Image" width="100%" >
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td colspan="2" align="center">
       <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" width="100%">
@@ -23,7 +23,7 @@
       <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" width="100%">
     </td>
   </tr>
-</table>
+</table> -->
 
 
 <!--
