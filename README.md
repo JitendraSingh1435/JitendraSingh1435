@@ -54,10 +54,11 @@ I’m passionate about designing intelligent, scalable AI solutions that bridge 
 ## 🛠️ The Tech Vault
 
 * 💻 I code in Python, Java, and JavaScript
-* 🧠 Deeply into Machine Learning, Deep Learning, and Natural Language Processing (NLP)
+* 🧠 Deeply into Machine Learning, Deep Learning, and Natural Language Processing (NLP).
+* 🧑‍💻 Claude code, Gemini, OpenAI, prompt engineering.
 * 🤖 Architecting Agentic AI, GenAI, and Large Language Models (LLMs)
 * ⚙️ Building with CrewAI, AGNO, Langgraph, Langchain, and MCP servers
-* 🔬 Researching Agentic Long Form Context RAG systems and LLM Quantizations & pruning methods
+* 🔬 Researching Agentic Long Form Context RAG systems and LLM Quantizations & pruning methods, RAGAS
 * 🚀 Passionate about designing intelligent, scalable AI solutions that bridge research and real-world applications
 
 
